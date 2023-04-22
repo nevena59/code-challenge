@@ -1,5 +1,5 @@
 {
-"empoyees":[
+"employees":[
 	{
 		"id":"1",
 		"name" : "John Doe"
@@ -15,6 +15,24 @@
 	{
 		"id":"2",
 		"name" : "Ron Morris"
+	}
+],
+"salaries": [
+	{
+		"employeeId" : "1",
+		"salary": "1500"
+	},
+	{
+		"employeeId" : "2",
+		"salary": "150"
+	},
+	{
+		"employeeId" : "3",
+		"salary": null 
+	},
+	{
+		"employeeId" : "4",
+		"salary": "1780"
 	}
 ]
 }
